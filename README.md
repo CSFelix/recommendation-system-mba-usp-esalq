@@ -12,7 +12,7 @@
 
 ---
 
-# Documentation, Data Wrangling and Data Engineering
+# Notebooks
 
 [0 | 📃 General Documentation](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/0%20-%20general%20documentation.ipynb)
 
