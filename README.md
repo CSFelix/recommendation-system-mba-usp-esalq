@@ -16,6 +16,8 @@
 
 [0 | 📃 General Documentation](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/0%20-%20general%20documentation.ipynb)
 
+[1 | 🧼 Data Wrangling and Fature Engineering](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/1%20-%20data%20wrangling%20and%20feature%20engineering.ipynb)
+
 ---
 
 # Scrapper
