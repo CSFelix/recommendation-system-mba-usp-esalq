@@ -18,6 +18,8 @@
 
 [1 | 🧼 Data Wrangling and Fature Engineering](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/1%20-%20data%20wrangling%20and%20feature%20engineering.ipynb)
 
+[2 | ✨ Demographic Filtering](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/2%20-%20demographic%20filtering.ipynb)
+
 ---
 
 # Scrapper
