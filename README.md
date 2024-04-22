@@ -24,6 +24,8 @@
 
 [3 | 📦 Content-Based Filtering for Plot Description](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/3%20-%20content-based%20filtering%20-%20plot%20description.ipynb)
 
+[4 | 📦 Content-Based Filtering for Metadatas](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/4%20-%20content-based%20filtering%20-%20metadatas.ipynb)
+
 ---
 
 # Scrapper
