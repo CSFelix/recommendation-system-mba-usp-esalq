@@ -26,6 +26,8 @@
 
 [4 | 📦 Content-Based Filtering for Metadatas](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/4%20-%20content-based%20filtering%20-%20metadatas.ipynb)
 
+[5 | 🧑‍🤝‍🧑 Collaborative Filtering User-Based](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/5%20-%20collaborative%20filtering%20-%20user%20based.ipynb)
+
 ---
 
 # Scrapper
