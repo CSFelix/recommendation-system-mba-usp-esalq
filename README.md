@@ -28,6 +28,8 @@
 
 [5 | 🧑‍🤝‍🧑 Collaborative Filtering User-Based](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/5%20-%20collaborative%20filtering%20-%20user%20based.ipynb)
 
+[6 | 🧑‍🤝‍🧑 Collaborative Filtering Item-Based](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/6%20-%20collaborative%20filtering%20-%20item%20based.ipynb)
+
 ---
 
 # Scrapper
