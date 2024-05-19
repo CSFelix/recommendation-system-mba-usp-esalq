@@ -32,6 +32,8 @@
 
 [7 | 🍡 Hybrid Filtering](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/7%20-%20hybrid%20filtering.ipynb)
 
+[8 | 👨‍🔬 Benchmark Analysis](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/8%20-%20benchmark%20analysis.ipynb)
+
 ---
 
 # Scrapper
