@@ -4,7 +4,7 @@
   <img src='./src/read-me-images/data-science.svg' alt='Data Science' />
 </div>
 
-> **Observation** - `to visualize the attached images into the noteboks, consider downloading the repo and running it on jupyter lab`.
+> **Observation** - `to visualize all the attached images into the noteboks, consider downloading the repo and running it on jupyter lab`.
 
 ---
 
