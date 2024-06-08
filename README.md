@@ -14,6 +14,12 @@
 
 ---
 
+# Documentation
+
+[Recommendation System Documentation - MBA USP\ESALQ | 📃 Recommendation Systems](https://github.com/CSFelix/recommendation-system-documentation)
+
+---
+
 # Notebooks
 
 [0 | 📃 General Documentation](https://github.com/CSFelix/recommendation-system-mba-usp-esalq/blob/main/src/0%20-%20general%20documentation.ipynb)
